@@ -1,0 +1,9 @@
+Django==1.8.6
+django-braces==1.13.0
+djangorestframework==3.2.3
+djangorestframework-simplejwt==3.2.3
+Pillow==2.9.0
+PyJWT==1.6.4
+python-memcached==1.59
+pytz==2018.4
+six==1.11.0
